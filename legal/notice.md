@@ -1,11 +1,14 @@
 # Impressum
 
 Ben Siebert
+
 Im Mühlenwinkel 14
+
 45525 Hattingen
 
 ## Kontakt
 Telefon: +49 1525 4398340
+
 E-Mail: hello@ben-siebert.de
 
 ## Umsmatzsteuer-ID
