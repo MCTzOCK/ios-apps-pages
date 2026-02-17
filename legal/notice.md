@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Impressum"
+permalink: /legal/notice
+---
+
 # Impressum
 
 Ben Siebert
